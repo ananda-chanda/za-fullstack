@@ -1,6 +1,6 @@
 // src/components/Auth/Signup.js
 import React, { useState } from 'react';
-import api from '../../utils/api';
+import api from '../../utils/Api';
 import { useNavigate } from 'react-router-dom';
 
 function Signup() {
